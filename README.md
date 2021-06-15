@@ -9,7 +9,7 @@ This is basic face detection with opencv python.
 Install Modules with pip
 
 ```bash
-  pip install python-opencv
+  pip install opencv-python
 ```
 
 ## Running
