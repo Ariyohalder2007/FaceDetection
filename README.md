@@ -17,5 +17,6 @@ Install Modules with pip
 To run this project run
 
 ```bash
+  cd FaceDetection
   python main.py
 ```
